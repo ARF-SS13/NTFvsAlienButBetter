@@ -574,7 +574,6 @@
 		"General" = list(
 			/obj/item/facepaint/green = -1,
 			/obj/item/clothing/suit/modular/rownin = -1,
-			/obj/item/radio/loadout_tool = -1,
 		),
 		"Style Line" = list(
 			/obj/item/clothing/suit/modular/style/leather_jacket = -1,

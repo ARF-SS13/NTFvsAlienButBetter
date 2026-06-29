@@ -1340,7 +1340,6 @@
 			/obj/item/facepaint/green = -1,
 			/obj/item/facepaint/brown = -1,
 			/obj/item/facepaint/black = -1,
-			/obj/item/radio/loadout_tool = -1,
 		),
 		"Armor modules" = list(
 			/obj/item/armor_module/storage/general = -1,
@@ -1495,7 +1494,6 @@
 			/obj/item/facepaint/green = -1,
 			/obj/item/facepaint/brown = -1,
 			/obj/item/facepaint/black = -1,
-			/obj/item/radio/loadout_tool = -1,
 		),
 		"Armor modules" = list(
 			/obj/item/armor_module/storage/general = -1,
