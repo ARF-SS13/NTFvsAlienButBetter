@@ -2404,7 +2404,6 @@
 /turf/open/floor,
 /area/lv624/ground/sand9)
 "bnl" = (
-/obj/item/tool/surgery/surgicaldrill,
 /obj/effect/landmark/patrol_point/xeno/xeno_21,
 /turf/open/floor/tile/whiteyellow/full,
 /area/lv624/lazarus/sandtemple)
@@ -6402,6 +6401,11 @@
 /obj/effect/turf_decal/riverdecal/edge,
 /turf/open/liquid/water/river,
 /area/lv624/ground/river2)
+"fNC" = (
+/obj/structure/table/mainship,
+/obj/item/alien_embryo,
+/turf/open/floor/tile/whiteyellow/full,
+/area/lv624/lazarus/sandtemple)
 "fOi" = (
 /obj/structure/flora/ausbushes/sparsegrass,
 /obj/docking_port/stationary/crashmode,
@@ -10989,6 +10993,17 @@
 /obj/structure/cable,
 /turf/open/floor/freezer,
 /area/lv624/lazarus/toilet)
+"kTL" = (
+/obj/structure/table/mainship,
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/item/stack/sheet/animalhide/xeno,
+/turf/open/floor/tile/whiteyellow/full,
+/area/lv624/lazarus/sandtemple)
 "kUt" = (
 /obj/structure/flora/jungle/plantbot1,
 /turf/open/ground/grass,
@@ -12407,6 +12422,17 @@
 	dir = 4
 	},
 /area/lv624/lazarus/atmos)
+"mDP" = (
+/obj/structure/table/mainship,
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/item/weed_extract,
+/turf/open/floor/tile/whiteyellow/full,
+/area/lv624/lazarus/sandtemple)
 "mDQ" = (
 /obj/machinery/light/small,
 /obj/structure/cable,
@@ -16447,6 +16473,11 @@
 /obj/structure/flora/ausbushes/ywflowers,
 /turf/open/ground/grass,
 /area/lv624/lazarus/overgrown)
+"rvk" = (
+/obj/structure/table/mainship,
+/obj/item/tool/surgery/surgicaldrill,
+/turf/open/floor/tile/whiteyellow/full,
+/area/lv624/lazarus/sandtemple)
 "rwl" = (
 /obj/structure/extinguisher_cabinet,
 /turf/open/floor/tile/green/whitegreen{
@@ -22555,6 +22586,17 @@
 /obj/structure/cable,
 /turf/open/floor/tile/white,
 /area/lv624/lazarus/main_hall)
+"yca" = (
+/obj/structure/table/mainship,
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/item/stack/sheet/xenochitin,
+/turf/open/floor/tile/whiteyellow/full,
+/area/lv624/lazarus/sandtemple)
 "ycc" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{
 	dir = 4
@@ -59636,7 +59678,7 @@ ewD
 ewD
 ewD
 ewD
-ewD
+qfl
 vCy
 vCy
 vCy
@@ -60365,7 +60407,7 @@ ewD
 ewD
 fnP
 ewD
-ojZ
+kTL
 qfl
 gKr
 gKr
@@ -60547,7 +60589,7 @@ ewD
 vcW
 ewD
 ewD
-ojZ
+mDP
 qfl
 gKr
 gKr
@@ -61275,7 +61317,7 @@ ewD
 ewD
 vcW
 ewD
-ojZ
+yca
 qfl
 gKr
 gKr
@@ -61639,7 +61681,7 @@ qfl
 uLb
 ewD
 bnl
-uQw
+rvk
 qfl
 gKr
 evp
@@ -62003,7 +62045,7 @@ qfl
 sEE
 ewD
 ewD
-uQw
+fNC
 qfl
 gKr
 gKr
