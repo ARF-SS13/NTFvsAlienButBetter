@@ -17456,6 +17456,10 @@
 	dir = 4
 	},
 /area/lv624/lazarus/fitness)
+"sxf" = (
+/obj/structure/curtain/temple,
+/turf/open/floor/tile/whiteyellow/full,
+/area/lv624/lazarus/sandtemple)
 "sxg" = (
 /obj/effect/turf_decal/warning_stripes/thin{
 	dir = 8
@@ -57494,7 +57498,7 @@ ewD
 ewD
 ewD
 ewD
-ewD
+sxf
 vCy
 vCy
 vCy
@@ -57676,7 +57680,7 @@ lnx
 ewD
 ewD
 ewD
-ewD
+sxf
 vCy
 vCy
 vCy
@@ -57858,7 +57862,7 @@ awF
 ewD
 ewD
 ewD
-ewD
+sxf
 vCy
 vCy
 vCy
@@ -58040,7 +58044,7 @@ kaT
 ewD
 ewD
 ewD
-ewD
+sxf
 vCy
 vCy
 vCy
@@ -58222,7 +58226,7 @@ ewD
 ewD
 ewD
 ewD
-ewD
+sxf
 vCy
 vCy
 vCy
